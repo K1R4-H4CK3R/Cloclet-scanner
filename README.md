@@ -7,9 +7,16 @@ Este script foi desenvolvido em Python e permite a varredura de portas em um ser
 
 ## Como Usar:
 
-1. Clone o repositório e execute:
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/K1R4-H4CK3R/Cloclet-scanner
-cd Cloclet-scanner
-pyhton3 Fsec-scanner
+```
+2. Entre no repositório:
+   ```bash
+   cd Cloclet-scanner
+   ```
+   3. Execute o script:
+      ```bash
+      python Fsec-scanner
+      ```
