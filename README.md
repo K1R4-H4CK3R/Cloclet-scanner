@@ -16,7 +16,7 @@ git clone https://github.com/K1R4-H4CK3R/Cloclet-scanner
    ```bash
    cd Cloclet-scanner
    ```
-   3. Execute o script:
-      ```bash
-      python Fsec-scanner
-      ```
+ 3. Execute o script:
+   ```bash
+    python Fsec-scanner
+     ```
