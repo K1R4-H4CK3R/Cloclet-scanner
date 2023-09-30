@@ -13,8 +13,8 @@ Este script foi desenvolvido em Python e permite a varredura de portas em um ser
 git clone https://github.com/K1R4-H4CK3R/Cloclet-scanner
 ```
 2. Entre no repositório:
-   ```bash
-   cd Cloclet-scanner
+ ```bash
+    cd Cloclet-scanner
    ```
  3. Execute o script:
    ```bash
